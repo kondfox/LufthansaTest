@@ -1,4 +1,5 @@
 cica
 kutya
 papagaj
+hal
 tengerimalac
